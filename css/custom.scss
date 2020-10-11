@@ -1,0 +1,26 @@
+.highlights-section{
+  margin-top: 30px;
+  .highlight-box{
+    margin-bottom: 30px;
+    .img-box{
+      position: relative;
+      img{
+
+      }
+    }
+    .highlight-content{
+      position: absolute;
+      width: 70%;
+      bottom: 70px;
+      left: 70px;
+      h1{
+        color: #ffffff;
+        font-weight: 600;
+        letter-spacing: 2px;
+      }
+      h4{
+        color: #ffffff;
+      }
+    }
+  }
+}
