@@ -24,3 +24,37 @@
     }
   }
 }
+
+// responsiveness
+@media only screen and (max-width: 600px) {
+  .highlights-section {
+    margin-top: 30px;
+
+    .highlight-box {
+      margin-bottom: 30px;
+
+      .img-box {
+        position: relative;
+
+        img {}
+      }
+
+      .highlight-content {
+        left: 38px;
+
+        h1 {
+          font-size: 20px;
+          margin-bottom: 18px;
+        }
+
+        h4 {
+          color: #ffffff;
+        }
+      }
+    }
+  }
+.btn-call{
+  font-size: 14px;
+}
+}
+// responsiveness
