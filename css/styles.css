@@ -21330,7 +21330,7 @@ text-decoration: none!important;
     border-radius: 0;
     padding: 20px 3px;
     margin-top: 5px;
-    width: 80%;
+    width: 100%!important;
 
   }
   .caption h2{
